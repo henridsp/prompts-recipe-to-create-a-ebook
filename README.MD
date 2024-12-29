@@ -30,7 +30,7 @@ seguem abaixo.
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://app.leonardo.ai/image-generation)
+- [LeonardoAI](https://app.leonardo.ai/image-generation)
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
 
 ## 🧠 Prompts
@@ -54,8 +54,7 @@ LeonardoAI：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | a man with suit playing soccer and learning about finance things and 
-and with the image background in a dark color |
+| título | a man with suit playing soccer and learning about finance things and with the image background in a dark color |
 
 ## ✨ Features
 
